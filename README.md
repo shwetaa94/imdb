@@ -9,4 +9,4 @@
 
 ### click on movie for more info
 
-![Uploading Screenshot (61).png…]()
+![Screenshot (61)](https://github.com/shwetaa94/imdb/assets/110349627/c32b578a-020b-4a24-9b8f-9af00a2bcaee)
